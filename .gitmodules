@@ -1,3 +1,9 @@
 [submodule "zephyr"]
 	path = zephyr
 	url = https://github.com/maksimdrachov/zephyr
+[submodule "lib/public_regulated_data_types"]
+	path = lib/public_regulated_data_types
+	url = https://github.com/OpenCyphal/public_regulated_data_types
+[submodule "lib/zubax_dsdl"]
+	path = lib/zubax_dsdl
+	url = https://github.com/Zubax/zubax_dsdl
